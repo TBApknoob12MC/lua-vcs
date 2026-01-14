@@ -1,2 +1,5 @@
 # lua-vcs
-simple vcs in lua
+
+Tbh its written using ai
+
+dond be mad on me
